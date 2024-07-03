@@ -108,4 +108,3 @@ const updateStatus = async (req,res) => {
 
 export { placeOrder, verifyOrder, userOrders, listOrders, updateStatus };
 
-//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
